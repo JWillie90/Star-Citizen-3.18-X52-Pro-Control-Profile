@@ -4,8 +4,6 @@ Date: April 19, 2023
 
 SC Patch: 3.18.1
 
-NOTE: I have provided all source files and templates in the "Resources and Alternatives" branch
-
 Description:
 This layout is designed for the Logitech X52 Pro HOTAS System (Single Stick and Thruster) 
 with rudders and a multi-functional display (MFD). The templates, files and xml document for this profile have been included and can be edited as needed.
