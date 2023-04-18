@@ -1,6 +1,10 @@
 Name: X52 Pro Layout with Rudders and MFD
+
 Date: April 19, 2023
+
 SC Patch: 3.18.1
+
+NOTE: I have provided all source files and templates in the "files" branch
 
 Description:
 This layout is designed for the Logitech X52 Pro HOTAS System (Single Stick and Thruster) 
