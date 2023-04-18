@@ -1,7 +1,5 @@
 Name: X52 Pro Layout with Rudders and MFD
-
 Date: April 19, 2023
-
 SC Patch: 3.18.1
 
 Description:
