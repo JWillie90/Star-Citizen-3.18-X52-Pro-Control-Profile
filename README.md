@@ -9,5 +9,4 @@ with rudders and a multi-functional display (MFD). The templates, files and xml 
 An alternative layout that I did not create but found to be exceptional has been also provided and can be found at the URL below:
 
 https://www.digitalcombatsimulator.com/en/files/3316532/
-
-Credit to uploader Avelis and creator EDrefCard
+     -  Credit to uploader Avelis and creator EDrefCard
